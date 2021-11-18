@@ -1,0 +1,40 @@
+_repo: Legends-of-Old-Honolulu-Mythology-Collected-and-Translated-from-the-Hawaiian_66547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westervelt, W. D. (William Drake)
+    aliases:
+    - Westervelt, William D. (William Drake)
+    - Westervelt, William Drake
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '35935'
+    url: http://www.gutenberg.org/2009/agents/35935
+    wikipedia: https://en.wikipedia.org/wiki/William_Drake_Westervelt
+description: ''
+gutenberg_issued: '2021-10-16'
+identifiers:
+  gutenberg: '66547'
+  lccn: '16024114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Hawaii -- Honolulu'
+- !lcc 'GR'
+- GITenberg
+tableOfContents: 'The migration of the Hawaiians -- Legendary places in Honolulu --
+  The god of Pakaka Temple -- Legend of the bread-fruit tree -- The gods who found
+  water -- The water of life of Ka-ne -- Mamala the surf-rider -- A shark punished
+  at Waikiki -- The legendary origin of Kapa -- Creation of man -- The chief with
+  the wonderful servants -- The great dog Ku -- The cannibal dog-man -- The canoe
+  of the dragon -- The wonderful shell -- The ghost dance on Punchbowl -- The bird-man
+  of Nuuanu Valley -- The owls of Honolulu -- The two fish from Tahiti -- Iwa, the
+  notable thief of Oahu -- Pikoi the rat-killer -- Kawelo -- "Chief man-eater" --
+  Lepe-a-moa -- Kamapuaa legends -- Appendix: Polynesian language. Partial list of
+  Hawaiian terms used.'
+title: 'Legends of Old Honolulu (Mythology)
+
+  Collected and Translated from the Hawaiian'
+url: http://www.gutenberg.org/ebooks/66547
