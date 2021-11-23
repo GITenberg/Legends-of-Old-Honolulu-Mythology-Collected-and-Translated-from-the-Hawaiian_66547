@@ -1,5 +1,8 @@
 _repo: Legends-of-Old-Honolulu-Mythology-Collected-and-Translated-from-the-Hawaiian_66547
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66547-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Westervelt, W. D. (William Drake)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35935
     wikipedia: https://en.wikipedia.org/wiki/William_Drake_Westervelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66547#Legends-of-Old-Honolulu-Mythology-Collected-and-Translated-from-the-Hawaiian
 gutenberg_issued: '2021-10-16'
 identifiers:
   gutenberg: '66547'
